@@ -1,1 +1,4 @@
 # localtime2unixtime
+
+指定時刻をUnixTimeに変換するコマンドラインです<br>
+automatorに仕込んで右クリックで使います
